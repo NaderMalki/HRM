@@ -1,4 +1,10 @@
 # Hierarchical Reasoning Model
+Nader. malki PCT/IR2025/050026
+
+Subject: Formal Intellectual Property Notice
+
+To those who may be concerned at Sapient Intelligence and its affiliated parties:
+I hereby issue this formal notice regarding the unauthorized use and misrepresentation of a neuromorphic artificial intelligence model of which I am the legal inventor. I conceptualized, documented, and patented it.
 
 ![](./assets/hrm.png)
 
