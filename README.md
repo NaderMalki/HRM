@@ -1,4 +1,5 @@
 # Hierarchical Reasoning Model
+#Hello, dear friends, the coding and citation of the type of processing in a claim made in my invention Nader Maleki with national registration number 140450140003000491 on April 21, 2025 in the Intellectual Property of Iran and the supplementary application 140450140003002031 and the international registration of WIPO with registration number PCT/IR2025/050026 and the priority right of this invention was registered in January 2024 in Blockchain and LENS.org. Please refrain from publishing these codes and methods, which are the property rights of me and the associations supporting orphaned children around the world. According to the tracking of the issue, the Deepseek artificial intelligence that I conducted research on in June was revealed and you claimed on June 29. If the application for this invention was registered three months ago, please delete the codes as soon as possible, otherwise you will cause losses and damages.
 
 ![](./assets/hrm.png)
 
